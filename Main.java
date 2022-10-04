@@ -10,3 +10,5 @@ public class Praktikum {
         System.out.println("Цвет: " +  homka.color);
     }
 }
+
+main();
